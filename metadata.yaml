@@ -1,0 +1,37 @@
+_repo: Within-the-Tides--Tales_1053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: This collection of four Joseph Conrad tales was first published in 1916
+  and includes The Panther of Malta, The Partner, The Inn of the Two Witches and Because
+  of the Dollars. Having English as an acquired language did not deter Conrad from
+  becoming one of the greatest prose stylists in English literature. A master at creating
+  atmosphere, he portrayed individuals suffering from isolation and moral disintergration,
+  and particularly the clash between primitive cultures and modern civilization.
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The planter of Malata -- The partner -- The inn of the two witches
+  -- Because of the dollars.
+title: 'Within the Tides: Tales'
+url: http://www.gutenberg.org/ebooks/1053
